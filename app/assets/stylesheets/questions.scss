@@ -1,0 +1,41 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+h1 {
+  color: pink;
+  text-align: center;
+  margin-top: 60px;
+}
+
+#question {
+  font-size: 20px;
+  text-align: center;
+}
+
+#answer {
+  font-size: 20px;
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+#btn-ask {
+  background-color: pink;
+  width: 60px;
+  font-size: 20px;
+}
+
+#question-bar {
+  font-size: 20px;
+}
+
+#link-to-ask {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
